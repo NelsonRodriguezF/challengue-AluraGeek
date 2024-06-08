@@ -1,0 +1,34 @@
+{
+  "cocteles": [
+    {
+      "id": 1,
+      "nombre": "Mojito",
+      "precio": 15,
+      "imagen": "https://media.istockphoto.com/id/1164929603/es/foto/c%C3%B3ctel-de-mojito-fresco-con-lima-y-menta-en-vidrio-sobre-fondo-de-hormig%C3%B3n-bebida-fr%C3%ADa.jpg?s=612x612&w=0&k=20&c=etgPoyT_Sneb1VltYPOSFBRQANNxRdpWQdI_AmvddUY="
+    },
+    {
+      "id": 2,
+      "nombre": "Margarita",
+      "precio": 16,
+      "imagen": "https://media.istockphoto.com/id/1204162205/es/foto/c%C3%B3ctel-de-margarita-con-lima.jpg?s=1024x1024&w=is&k=20&c=vsSTB-by0vsuM1902qexShgTI7pufUsEIoUG8Hr_c5U="
+    },
+    {
+      "id": 3,
+      "nombre": "Piña colada",
+      "precio": 18,
+      "imagen": "https://media.istockphoto.com/id/931469746/es/foto/c%C3%B3ctel-pi%C3%B1a-colada-congelada.jpg?s=1024x1024&w=is&k=20&c=knWZXS07_3WqCOyMAKT4uhXRtJTbxVoj_epQ0pz7Fe8="
+    },
+    {
+      "id": "ab68",
+      "nombre": "Gin & tonic",
+      "precio": "20",
+      "imagen": "https://media.istockphoto.com/id/1323890695/es/foto/el-c%C3%B3ctel-de-pomelo-rosado-y-ginebra-de-romero-se-sirve-en-vasos-de-ginebra-preparados.jpg?s=1024x1024&w=is&k=20&c=e3V1v_ATwbq6M0U-Z6amOth7wGj-tn-6-yOQ3J3v5Co="
+    },
+    {
+      "id": "ca91",
+      "nombre": "sdfdsfdsf",
+      "precio": "5",
+      "imagen": "https://media.istockphoto.com/id/931469746/es/foto/c%C3%B3ctel-pi%C3%B1a-colada-congelada.jpg?s=1024x1024&w=is&k=20&c=knWZXS07_3WqCOyMAKT4uhXRtJTbxVoj_epQ0pz7Fe8="
+    }
+  ]
+}
